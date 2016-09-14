@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hola_fauvel'
+puts HolaFauvel.hi(ARGV[0])
